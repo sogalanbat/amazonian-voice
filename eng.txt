@@ -1,3 +1,16 @@
-word_1 = hello,
-word_2 = world
+Language = "🇬🇧",
+
+Log In Button = "Log In",
+Sign In Button = "Sign In",
+Reset Password Button = "Reset Password",
+Log In Instruction = "Welcome, log in to your account",
+Sign In Instruction = "Set up an account with an e-mail and password",
+Email Input = "E-mail:",
+Password Input = "Password:",
+Hint Email = "example@example.com",
+Hint Password = "Psst... psst... your password goes here"
+
+
+
+
 
