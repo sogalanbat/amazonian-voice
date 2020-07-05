@@ -1,4 +1,4 @@
-Language = "🇬🇧",
+Language = "eng - 🇬🇧",
 Log In Button = "Log In",
 Sign In Button = "Sign In",
 Reset Password Button = "Reset Password",
