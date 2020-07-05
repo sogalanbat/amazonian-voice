@@ -1,6 +1,6 @@
 Language = "eng - 🇬🇧",
 Log In Button = "Log In",
-Sign In Button = "Sign In",
+Sign Up Button = "Sign Up",
 Reset Password Button = "Reset Password",
 Log In Instruction = "Welcome! log in to your account",
 Sign In Instruction = "Set up an account with an e-mail and password",
