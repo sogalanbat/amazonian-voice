@@ -7,9 +7,19 @@ Sign In Instruction = "Set up an account with an e-mail and password",
 Email Input = "E-mail:",
 Password Input = "Password:",
 Hint Email = "example@example.com",
-Hint Password = "Psst... psst... your password goes here"
-
-
-
-
+Hint Password = "Psst... psst... your password goes here",
+Aid Requests Button = "Help Needed",
+Available Resources Button = "Available Help",
+Message New Post = "Hello, create a new post!",
+New Post Title = "Title",
+New Post Hint = "The title of your post (keep it simple!)",
+Description Title = "Description",
+Description Hint = "What aid are you providing? Are there any conditions?",
+Location Button = "Get Location",
+Status Message = "Your post is now pending for approval.",
+Category Title = "Categories",
+Category 1 = "COVID-19",
+Category 2 = "Medicine",
+Category 3 = "Food & Supplies",
+Button Save Post = "Save Post",
 
