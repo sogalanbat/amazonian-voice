@@ -21,4 +21,4 @@ Category 2 = "Medicine",
 Category 3 = "Food & Supplies",
 Contact Label = "Contact Info",
 Button Save Post = "Save Post",
-
+Contact Label = "Contact",
